@@ -34,7 +34,7 @@ source ~/.bash_profile
 - systemctl enable php-fpm
 
 
-#### Ansible dependencies to install
+#### Ansible dependencies to instal
 =====================================
 * For Mysql Database
 - ansible-galaxy collection install community.mysql
