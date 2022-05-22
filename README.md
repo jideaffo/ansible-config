@@ -257,7 +257,6 @@ stage('Plot Code Coverage Report') {
 ######################
 JENKINSFILE FOR NGINX AND DB FOR DEV
 ============================
- feature/jenkinspipeline-stages
 pipeline {
    agent any
 
