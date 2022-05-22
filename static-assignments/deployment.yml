@@ -56,7 +56,7 @@
         url_password: AP912bv4nMur7eR1nqtusRot7Ys  
 
 
-    - name: unzip the artifacts
+    - name: unzip thee artifacts
       ansible.builtin.unarchive:
        src: /home/ec2-user/php-todo
        dest: /home/ec2-user/
